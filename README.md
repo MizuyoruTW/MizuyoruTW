@@ -1,7 +1,6 @@
 ## :book: About Me
 
--   A graduate student of [NTUT](https://en.wikipedia.org/wiki/National_Taipei_University_of_Technology), major in Computer Science and Information Engineering.
--   Working on something about multi-modal multi-task learning.
+-   Master of Computer Science and Information Engineering in [NTUT](https://en.wikipedia.org/wiki/National_Taipei_University_of_Technology), studied for MTL model stucture.
 -   Arch Linux user since Nov. 2020
 -   Cangjie input method user since Aug. 2021
 -   Anime lover
